@@ -4,20 +4,16 @@
 
 
 <h1>Creating a Private Team</h1>
-This project outlines the installation of on-premises Active Directory within Azure Virtual Machines.<br />
+This project outlines the the creation of a private team named `Marketing` within Microsoft Admin Center.<br />
 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop Connection
-- Active Directory Domain Services
-- PowerShell
+- Microsoft Admin Center
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
-- Windows 10 (21H2)
+- Windows 11 Enterprise
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
